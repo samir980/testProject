@@ -1,0 +1,220 @@
+.home {
+    background-size: 100% 150%;
+    height: 650px;
+
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+
+}
+
+.navbar {}
+
+.bg-light {
+    background-color: #0025 !important;
+}
+
+.navbar-nav {
+    margin-left: 450px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: aliceblue;
+}
+
+.caption {
+    text-align: center;
+    margin-top: 100px;
+    color: aliceblue;
+    background-color: transparent;
+    z-index: 100;
+}
+
+.caption hr {
+    width: 30px;
+    height: 10px;
+    background-color: #f9461d !important;
+
+}
+
+.caption h2 {}
+
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    width: 200px;
+    height: 50px;
+    background-color: #f9461d !important;
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+.caption1 h3 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+
+
+}
+
+.caption1 hr {
+    width: 60px;
+    height: 5px;
+    background-color: #f9461d !important;
+
+}
+
+.about .container {
+    margin-top: 150px;
+}
+
+.about .container h3 {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.about .container p {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.about .container hr {
+    width: 90px;
+    height: 5px;
+    background-color: #f9461d !important;
+    text-align: center;
+
+}
+
+.about .row {
+    margin-top: 100px;
+
+}
+
+.carousel-indicators li {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: gray;
+    bottom: -50px;
+}
+
+.carousel-indicators .active {
+    background-color: #f9461d;
+}
+
+
+
+.col-lg-6 p {
+    font-size: 1.125rem;
+}
+
+.col-lg-6 .btn1 {
+    color: aliceblue;
+    background-color: #f9461d;
+    width: 150px;
+    height: 60px;
+}
+
+.facts {
+    background-image: url("../images/bg-fun-facts.jpg");
+    height: auto;
+    background-size: 100% 115%;
+    margin-top: 100px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.caption2 {
+    text-align: center;
+    padding-top: 150px;
+}
+
+.caption2 h2 {
+    font-size: 2.75rem !important;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.caption2 p {
+    font-size: 1.5rem !important;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.caption2 hr {
+    width: 90px;
+    height: 5px;
+    background-color: #f9461d !important;
+    text-align: center;
+
+
+}
+.facts .row {
+    text-align: center;
+}
+.col-lg-3 h4 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 3.125rem !important;
+}
+
+.col-lg-3 p {
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.25rem !important;
+
+}
+.col-lg-3 .fa-thumbs-up {
+61d ;
+    font-size: 4rem !important;
+}
+.fa-smile {
+     color: #f9461d ;
+    font-size: 4rem !important;
+    
+}
+.fa-coffee {
+    color: #f9461d ;
+    font-size: 4rem !important;
+   
+}
+.fa-gift {
+    color: #f9461d ;
+    font-size: 4rem !important;
+    
+}
+.caption3 {
+    text-align: center;
+}
+.caption3 h2 {
+        font-size: 2.75rem!important; 
+}
+.caption3 p {
+        font-size: 1.5rem!important;
+}
+.caption3 hr {
+    width: 90px;
+    height: 3px;
+    background-color: #f9461d !important;
+    text-align: center;
+}
+.col-lg-4 .col-md-6 h3 {
+        font-size: 1.5rem!important;
+}
+.col-lg-4 .col-md-6 p {
+        font-size: 1rem!important;
+}
+.whyus .bg-base-color{
+     background-color: #f9461d ;
+    
+}
+.whyus .fa-rocket {
+    
+    color: white;
+    font-size: 30px;
+} 
